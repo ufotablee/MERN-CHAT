@@ -1,0 +1,236 @@
+{
+    "dialogs": [
+      {
+        "_id": "xxxxaaef61ac9809676ed891c26861a90723",
+        "text": "Nostrud dolor aliqua velit ea occaecat duis consequat nostrud sit. Duis adipisicing voluptate non officia aliqua esse excepteur officia laborum amet consectetur. Labore mollit anim pariatur proident proident non deserunt Lorem quis.",
+        "isReaded": true,
+        "created_at": "Thu Nov 19 2009 21:57:23 GMT+0200 (Восточная Европа, стандартное время)",
+        "user": {
+          "fullname": "Mills",
+          "_id": "xxxxaaef61ac9809676ed891c26861a90723",
+          "avatar": null
+        }
+      },
+      {
+        "_id": "03e44d20b8d0a8e3b0e77663d36784df",
+        "text": "Enim consectetur in ipsum id sit. Laboris Lorem irure magna aliqua consectetur tempor velit reprehenderit. Voluptate deserunt pariatur enim laborum et.",
+        "isReaded": true,
+        "created_at": "Tue Jan 02 1973 03:21:07 GMT+0300 (Восточная Европа, стандартное время)",
+        "user": {
+          "fullname": "Roxanne",
+          "_id": "03e44d20b8d0a8e3b0e77663d36784df",
+          "avatar": null
+        }
+      },
+      {
+        "_id": "5df8f17f2e30d9ecd5581704",
+        "text": "Aute ullamco ad cillum ut dolor aute sunt pariatur. Incididunt cillum sit enim pariatur nisi labore amet. Et amet cillum nulla non nulla ullamco.",
+        "isReaded": false,
+        "created_at": "Sun Mar 14 2010 14:11:22 GMT+0200 (Восточная Европа, стандартное время)",
+        "user": {
+          "fullname": "Helena",
+          "_id": "b37c0b537534d219f32919f29d7b3361",
+          "avatar": null
+        }
+      },
+      {
+        "_id": "5df8f17f34bfb0ee9cfb8110",
+        "text": "Non aliqua labore do commodo eiusmod quis consequat ut ipsum ut veniam. Adipisicing officia proident officia occaecat enim Lorem excepteur qui tempor sit anim tempor aliquip adipisicing. Non dolore enim proident cillum fugiat consequat sunt tempor et elit elit dolore nisi commodo.",
+        "isReaded": false,
+        "created_at": "Tue Jan 25 2005 02:41:02 GMT+0200 (Восточная Европа, стандартное время)",
+        "user": {
+          "fullname": "Cummings",
+          "_id": "9089c7831db99c16e2b838d52d7fd16d",
+          "avatar": null
+        }
+      },
+      {
+        "_id": "5df8f17f313b1c77c0966993",
+        "text": "Nostrud ad culpa eiusmod nisi aliquip incididunt aliquip dolore ipsum culpa ex ad proident est. Fugiat anim exercitation ad laborum. Ex dolor Lorem amet cillum reprehenderit labore qui ullamco laboris consectetur.",
+        "isReaded": false,
+        "created_at": "Wed Mar 29 1972 08:04:57 GMT+0300 (Восточная Европа, стандартное время)",
+        "user": {
+          "fullname": "Gay",
+          "_id": "5a7703b7dd980b581f9b8705beb363ba",
+          "avatar": null
+        }
+      },
+      {
+        "_id": "5df8f17f2d7e4aa31a8e1f64",
+        "text": "Adipisicing veniam consequat dolore ullamco et quis reprehenderit enim Lorem adipisicing proident. Magna culpa ad ad aliquip officia sunt. Ut aute amet velit eiusmod Lorem enim duis anim cillum consectetur.",
+        "isReaded": false,
+        "created_at": "Wed Sep 07 1994 08:14:08 GMT+0300 (Восточная Европа, летнее время)",
+        "user": {
+          "fullname": "Dotson",
+          "_id": "a31cdb50cb96f4d13d118194057ff640",
+          "avatar": null
+        }
+      },
+      {
+        "_id": "5df8f17fc8282385506485ba",
+        "text": "Laborum aliquip duis culpa duis voluptate ullamco esse. Quis esse id consequat nulla consectetur qui do nostrud laborum sit. Mollit et ullamco incididunt qui eiusmod consectetur.",
+        "isReaded": false,
+        "created_at": "Sat Oct 07 1995 18:41:51 GMT+0200 (Восточная Европа, стандартное время)",
+        "user": {
+          "fullname": "Brown",
+          "_id": "5bce5d0d60680e37ea396717ee536c50",
+          "avatar": null
+        }
+      },
+      {
+        "_id": "5df8f17f1470af63cf832585",
+        "text": "Occaecat nulla nulla ipsum ad aute ipsum est sunt cillum ipsum reprehenderit cupidatat. Aliquip nisi veniam sit laborum deserunt dolore minim et consectetur labore. Cillum proident est aliqua ex in exercitation.",
+        "isReaded": false,
+        "created_at": "Wed Dec 11 1991 07:06:02 GMT+0200 (Восточная Европа, стандартное время)",
+        "user": {
+          "fullname": "Christi",
+          "_id": "8fc5870643cc3423cee71175b6591a9a",
+          "avatar": null
+        }
+      },
+      {
+        "_id": "5df8f17fd6e05568f69a8590",
+        "text": "Id commodo fugiat laborum irure tempor eu cillum tempor deserunt velit velit laboris officia. Nostrud eu cupidatat nisi aliquip veniam do deserunt laboris cillum Lorem aliqua adipisicing. Culpa dolor consectetur sit ex eu ex duis exercitation incididunt consequat sit.",
+        "isReaded": false,
+        "created_at": "Mon Oct 04 2010 21:43:09 GMT+0300 (Восточная Европа, летнее время)",
+        "user": {
+          "fullname": "Rhodes",
+          "_id": "ae6032eeeb5cedc1555940983435335b",
+          "avatar": null
+        }
+      },
+      {
+        "_id": "5df8f17f8312f06ead919b66",
+        "text": "Culpa labore in quis nulla duis tempor dolore cillum in. Eu ullamco reprehenderit incididunt dolore duis Lorem sint esse magna mollit sit. In culpa qui non id.",
+        "isReaded": false,
+        "created_at": "Sat Feb 08 1975 02:11:12 GMT+0300 (Восточная Европа, стандартное время)",
+        "user": {
+          "fullname": "Tracy",
+          "_id": "01c6d38bce2102c50562e4033e56dd43",
+          "avatar": null
+        }
+      }
+    ],
+      "messages": [
+        {
+          "text": "Magna id elit do nostrud fugiat laborum voluptate. Tempor ea occaecat commodo culpa consectetur labore Lorem. Duis laboris est nostrud consequat cupidatat nostrud eu ad ex commodo consequat.",
+          "isMe": false,
+          "isReaded": true,
+          "created_at": "Fri May 31 1991 00:36:25 GMT+0300 (Восточная Европа, летнее время)",
+          "user": {
+            "fullname": "Hall",
+            "_id": "hdgdfg5df8f9c39348b366770cabf6",
+            "avatar": null
+          },
+          "dialog": "a31cdb50cb96f4d13d118194057ff640"
+        },
+        {
+          "text": "Cupidatat voluptate aliqua quis enim amet labore. Sit enim reprehenderit id proident pariatur minim velit elit excepteur non. Commodo ad deserunt eiusmod labore ipsum nulla proident.",
+          "isMe": false,
+          "isReaded": false,
+          "created_at": "Fri Dec 04 1987 20:44:14 GMT+0300 (Восточная Европа, стандартное время)",
+          "user": {
+            "fullname": "Katy",
+            "_id": "5215r3123df8f9c35ab279510e288ac6",
+            "avatar": null
+          },
+          "dialog": "a31cdb50cb96f4d13d118194057ff640"
+        },
+        {
+          "text": "Aliquip nulla consequat dolore id. Tempor eu Lorem labore cupidatat deserunt ex tempor pariatur dolore in. Magna aute ipsum laboris voluptate.",
+          "isMe": true,
+          "isReaded": false,
+          "created_at": "Tue Jan 09 1990 04:05:10 GMT+0300 (Восточная Европа, стандартное время)",
+          "user": {
+            "fullname": "Chang",
+            "_id": "4565465df8f9c30088e151e02d784e",
+            "avatar": "https://picsum.photos/id/781/50/50"
+          },
+          "dialog": "a31cdb50cb96f4d13d118194057ff640"
+        },
+        {
+          "text": "Amet irure Lorem voluptate tempor in do nostrud nostrud. Duis labore do pariatur mollit. Deserunt anim duis mollit consequat deserunt irure deserunt cillum eu enim ex nostrud ea nulla.",
+          "isMe": true,
+          "isReaded": true,
+          "created_at": "Wed Jun 10 2009 15:01:58 GMT+0300 (Восточная Европа, летнее время)",
+          "user": {
+            "fullname": "Pittman",
+            "_id": "5534dfsfs7897834df8f9c3fc2f594201e1119e",
+            "avatar": null
+          },
+          "dialog": "a31cdb50cb96f4d13d118194057ff640"
+        },
+        {
+          "text": "Nisi exercitation nisi in ad do nulla nostrud ipsum ipsum pariatur aliquip duis dolor. Nulla exercitation occaecat esse duis occaecat labore mollit nulla. Reprehenderit incididunt tempor amet occaecat sunt excepteur occaecat laboris aliqua duis anim qui.",
+          "isMe": true,
+          "isReaded": false,
+          "created_at": "Sat Mar 27 1982 20:38:55 GMT+0300 (Восточная Европа, стандартное время)",
+          "user": {
+            "fullname": "Fitzpatrick",
+            "_id": "534fghfsddf8f9c347d17c2fc2c69e46",
+            "avatar": null
+          },
+          "dialog": "a31cdb50cb96f4d13d118194057ff640"
+        },
+        {
+          "text": "Proident ut elit amet do officia amet duis elit aute sunt est sit commodo. Ea incididunt velit amet cillum pariatur duis excepteur. Velit minim ut veniam sit pariatur id laboris labore.",
+          "isMe": true,
+          "isReaded": false,
+          "created_at": "Thu Apr 15 1976 14:18:15 GMT+0300 (Восточная Европа, стандартное время)",
+          "user": {
+            "fullname": "Penelope",
+            "_id": "5hgjgdsfw4df8f9c3276c81557a31b688",
+            "avatar": null
+          },
+          "dialog": "a31cdb50cb96f4d13d118194057ff640"
+        },
+        {
+          "text": "Ipsum irure laborum nostrud dolor qui aliquip. Culpa proident minim reprehenderit id officia exercitation velit sit ea sint sit. Elit labore sunt duis quis pariatur pariatur.",
+          "isMe": false,
+          "isReaded": true,
+          "created_at": "Mon Sep 22 1975 14:18:39 GMT+0300 (Восточная Европа, стандартное время)",
+          "user": {
+            "fullname": "Marcella",
+            "_id": "5dgrgdrfsdfsddf8f9c3896dc44679b37f68",
+            "avatar": null
+          },
+          "dialog": "a31cdb50cb96f4d13d118194057ff640"
+        },
+        {
+          "text": "Amet dolor laborum laboris nisi ullamco eu adipisicing magna culpa qui. Velit eiusmod adipisicing sint occaecat culpa adipisicing consectetur commodo ipsum est occaecat cupidatat aliqua nisi. Aliquip nisi elit laborum quis reprehenderit ipsum magna aliquip consectetur officia laborum Lorem laboris dolore.",
+          "isMe": false,
+          "isReaded": false,
+          "created_at": "Sat Nov 13 1993 17:24:22 GMT+0200 (Восточная Европа, стандартное время)",
+          "user": {
+            "fullname": "Elvia",
+            "_id": "5gergervfsfdsddfdf8f9c33f39f412652b0ab7",
+            "avatar": null
+          },
+          "dialog": "a31cdb50cb96f4d13d118194057ff640"
+        },
+        {
+          "text": "Aliqua ea nisi amet sit reprehenderit ut. Officia velit sunt est ex id enim magna laboris est. Nisi consectetur aute eu amet ipsum occaecat.",
+          "isMe": true,
+          "isReaded": false,
+          "created_at": "Mon Oct 12 2015 20:56:28 GMT+0300 (Восточная Европа, летнее время)",
+          "user": {
+            "fullname": "Tamera",
+            "_id": "5df8f9c39e64feed40a6c56a",
+            "avatar": null
+          },
+          "dialog": "a31cdb50cb96f4d13d118194057ff640"
+        },
+        {
+          "text": "Irure irure exercitation ullamco in incididunt et et et laboris nostrud duis ut mollit. Cupidatat velit excepteur magna deserunt occaecat amet reprehenderit enim commodo dolor pariatur laboris minim. Elit non elit et tempor ex est ea.",
+          "isMe": true,
+          "isReaded": true,
+          "created_at": "Sat Oct 04 1986 10:06:18 GMT+0300 (Восточная Европа, стандартное время)",
+          "user": {
+            "fullname": "Evans",
+            "_id": "5df8f9c3e97f84e0f54e8c06",
+            "avatar": null
+          },
+          "dialog": "a31cdb50cb96f4d13d118194057ff640"
+        }
+      ]
+  }

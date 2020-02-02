@@ -1,0 +1,19 @@
+.edit {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    width: 60%;
+    margin: 0 auto;
+    .pd{
+        padding: 30px;
+    }
+    input {
+        width: 200px;
+        margin-top: 10px;
+    }
+    div {
+        margin-top: 10px;
+    }
+}
